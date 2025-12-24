@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build / output folders
+dist/
+build/
+out/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+
+# Java
+*.class
+target/
+
+# Cache
+.cache/
+.tmp/
+
+# Git
+*.orig
